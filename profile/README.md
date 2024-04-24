@@ -15,7 +15,8 @@ Whether you're looking to contribute code, documentation, or just ideas — your
 Your suggestions make us better. Don't hesitate to raise an issue or suggest improvements.
 
 🔗 **Connect With Us**
-- [Twitter](#)
-- [Discord](#)
+We're looking forward to building a community around ReactToolkitOrg. For now, the best way to connect and contribute is through our GitHub repositories.
+
+Watch this space for updates on social media and community channels as we grow!
 
 Let's build something remarkable together!
